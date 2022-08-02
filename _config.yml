@@ -1,8 +1,8 @@
 title: My first Jekyll
 author: Plamen Ivanov
-email: your-email@domain.com
+email: paco.iwanow@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  First Jekyll static GitHub Pages.
+  First Jekyll static GitHub Pages. 
 
 # social links
 github_username:  k1lgor # DO NOT include the @ character, or else the build will fail!
